@@ -43,7 +43,7 @@ Por último, deberá calcularse la media sumando el resultado total de cada hilo
 - Debe haber un recurso compartido (mesa) que tenga un total de 15 magdalenas.
 - Cuando un comensal coge una magdalena, los demás no pueden.
 - Todos los comensales tardan 10 segundos en comerse una magdalena.
-- Cada vez que un comensal coge una magdalena debe indicarse por pantalla con un mensaje:
+- Cada vez que un comensal coge una magdalena debe indicarse por pantalla con un mensaje :
 
 <p align="center">
     <i>‘Fulanito’ ha cogido una magdalena de la mesa</i>
